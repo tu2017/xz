@@ -16,7 +16,7 @@
 ◆国产浏览器干扰浏览，请卸载<br/>
 ◆2017藏人翻墙最人气软件网门<br/>
 ◆网门安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
-◆下载网门安卓版：更快更方便<br/></td>
+◆下载网门安卓版：更快更方便<br/>
   </tr>
   <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏.jpg" /></td>
